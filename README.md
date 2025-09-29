@@ -40,7 +40,7 @@
   <a href="https://www.linkedin.com/in/william-amadeus-86667a224/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
   </a>
-  <a href="a" target="_blank">
+  <a href="https://www.instagram.com/williamamadeusss/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
   </a>
   <a href="https://wa.me/6281295447285" target="_blank">
