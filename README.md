@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">A passionate Software Engineer | curious mind, willing to learn</h3>
+<p align="left">A Computer Science fresh graduate with over 20 months of hands-on experience as a Frontend Web Developer. Currently managing multiple frontend projects, I am proficient in building dynamic and responsive web applications using React.js, Next.js, Tailwind CSS, Framer Motion and Shadcn UI. I possess a growth mindset and critical thinking skills, always eager to explore new challenges and environments to further enhance my expertise.</p>
 
 ###
 
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamamadeusss&hide_title=false&hide_rank=true&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=williamamadeusss&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=williamamadeusss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
